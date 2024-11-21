@@ -1,27 +1,45 @@
-#include <stdio.h>
-#include <stdlib.h>
-int maximum(int x, int y, int z);
+#include<stdio.h>
+#include<stdlib.h>
+#define SIZE 10
+
+void bubbleSort(int* const array, const int size);
 
 int main(void) {
-	int number1;
-	int number2;
-	int number3;
-	printf("Enter three integers:");
-	scanf_s("%d %d %d", &number1, &number2, &number3);
-	printf("Maximum is: %d\n", maximum(number1, number2, number3));
+	int a[SIZE] = { 2,6,4,8,10,12,89,68,45,37 };
+	int i;
+
+	printf("Data items in original order\n");
+
+	for (i = 0; i < SIZE; i++) {
+		printf("%4d", a[i]);
+	}
+	bubbleSort(a, SIZE);
+
+	printf("\nData items in ascending order\n");
+
+	for (i = 0; i < SIZE; i++) {
+		printf("%4d", a[i]);
+	}
+	printf("\n");
 	system("pause");
 	return 0;
 }
 
-int maximum(int x, int y, int z) {
-	int max = x;
-	if (y > max)
-	{
-		max = y;
+void bubbleSort(int* const array, const int size) {
+	void swap(int* element1Ptr, int* element2Ptr);
+	int pass;
+	int j;
+
+	for (pass = 0; pass < size - 1; pass++) {
+		for (j = 0; j < size - 1; j++) {
+			if (array[j] > array[j + 1]) {
+				swap(&array[j], &array[j + 1]);
+			}
+		}
 	}
-	if (z > max)
-	{
-		max = z;
-	}
-	return max;
+}
+void swap(int* element1Ptr, int* element2Ptr) {
+	int hold = *element1Ptr;
+	*element1Ptr = *element2Ptr;
+	*element2Ptr = hold;
 }
