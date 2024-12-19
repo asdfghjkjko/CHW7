@@ -1,18 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\HW5\\P15\\HW1\\",
+  "WorkspaceRootPath": "C:\\HW7\\P15\\HW1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09D1C704-0C6C-402E-A7B6-0E1BA590532E}|HW1\\HW1.vcxproj|C:\\HW5\\P15\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HW3-1\\P15\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HW2\\3.19\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\c_code\\2.24\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{09D1C704-0C6C-402E-A7B6-0E1BA590532E}|HW1\\HW1.vcxproj|C:\\HW7\\P15\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,50 +19,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.c",
-              "DocumentMoniker": "C:\\HW5\\P15\\source\\Main.c",
+              "DocumentMoniker": "C:\\HW7\\P15\\source\\Main.c",
               "RelativeDocumentMoniker": "..\\source\\Main.c",
-              "ToolTip": "C:\\HW5\\P15\\source\\Main.c*",
-              "RelativeToolTip": "..\\source\\Main.c*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\HW7\\P15\\source\\Main.c",
+              "RelativeToolTip": "..\\source\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-21T14:58:59.932Z",
+              "WhenOpened": "2024-12-19T08:11:58.462Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.c",
-              "DocumentMoniker": "C:\\HW3-1\\P15\\source\\Main.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\HW3-1\\P15\\source\\Main.c",
-              "ToolTip": "C:\\HW3-1\\P15\\source\\Main.c",
-              "RelativeToolTip": "..\\..\\..\\HW3-1\\P15\\source\\Main.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-04T14:45:40.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Main.c",
-              "DocumentMoniker": "C:\\HW2\\3.19\\source\\Main.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\HW2\\3.19\\source\\Main.c",
-              "ToolTip": "C:\\HW2\\3.19\\source\\Main.c",
-              "RelativeToolTip": "..\\..\\..\\HW2\\3.19\\source\\Main.c",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-24T15:10:44.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Main.c",
-              "DocumentMoniker": "C:\\c_code\\2.24\\source\\Main.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\c_code\\2.24\\source\\Main.c",
-              "ToolTip": "C:\\c_code\\2.24\\source\\Main.c",
-              "RelativeToolTip": "..\\..\\..\\c_code\\2.24\\source\\Main.c",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-03T12:25:15.265Z"
             }
           ]
         }
